@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/diegoaz4000818/AZ400%20-%20Lab1%20-%20PartsUnlimeted/_apis/build/status/diegoaz400.ContosoAir?branchName=master)](https://dev.azure.com/diegoaz4000818/AZ400%20-%20Lab1%20-%20PartsUnlimeted/_build/latest?definitionId=7&branchName=master)
 
 
 # Microsoft.Github CI Demo
